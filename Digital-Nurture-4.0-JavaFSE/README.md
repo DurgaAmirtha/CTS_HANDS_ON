@@ -2,7 +2,7 @@
 
 This repository contains the hands-on exercises I completed as part of the Digital Nurture 4.0 Java Full Stack Engineer training program.
 
-The work is organized by week and topic.
+The exercises are organized by week and topic.
 
 ## Repository Contents
 
@@ -20,7 +20,7 @@ The work is organized by week and topic.
 
 ### Week 2
 
-Contains exercises related to Java testing, logging, Maven, and Spring Core. Refer to the individual exercise folders for details.
+Contains exercises related to testing, logging, Maven, and Spring Core.
 
 ### Week 3
 
@@ -44,15 +44,15 @@ Contains hands-on work related to Spring REST.
 
 ## Running the Exercises
 
-Open the required exercise folder and read its README for the correct instructions.
+Open the required exercise folder and follow the instructions in its README.
 
-For a valid Maven project, the common command is:
+For Maven projects, use:
 
 ```bash
 mvn clean test
 ```
 
-Some exercises may contain a main class and require a different command.
+Commands may differ depending on the exercise structure.
 
 ## Note
 
