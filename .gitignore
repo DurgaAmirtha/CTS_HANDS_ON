@@ -1,0 +1,12 @@
+# Local tools folder
+tools/
+/tools/
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE folder
+.vscode/
+.idea/
