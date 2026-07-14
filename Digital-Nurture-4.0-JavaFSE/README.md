@@ -1,78 +1,59 @@
 # Digital Nurture 4.0 – Java FSE Hands-On
 
-This repository contains my hands-on exercises completed as part of the Digital Nurture 4.0 Java Full Stack Engineer program.
+This repository contains the hands-on exercises I completed as part of the Digital Nurture 4.0 Java Full Stack Engineer training program.
 
-The exercises are organized by week and topic.
+The work is organized by week and topic.
 
-## Completed Work
+## Repository Contents
 
 ### Week 1
-*   Design Patterns and Principles
-    *   Singleton Pattern
-    *   Factory Method Pattern
-*   Data Structures and Algorithms
-    *   E-commerce Search
-    *   Financial Forecasting
-*   PL/SQL Programming
-    *   Control Structures
-    *   Stored Procedures
+
+#### Design Patterns and Principles
+
+* Singleton Pattern
+* Factory Method Pattern
+
+#### Data Structures and Algorithms
+
+* E-commerce Search
+* Financial Forecasting
 
 ### Week 2
-*   JUnit, Mockito, and Logging
-    *   Setting Up JUnit
-    *   Assertions in JUnit
-    *   AAA Pattern and Fixtures
-    *   Mockito Mocking and Stubbing
-    *   Mockito Verifying Interactions
-    *   SLF4J Logging
-*   Spring Core and Maven
-    *   Configuring Basic Spring Application
-    *   Implementing Dependency Injection
-    *   Creating and Configuring a Maven Project
+
+Contains exercises related to Java testing, logging, Maven, and Spring Core. Refer to the individual exercise folders for details.
 
 ### Week 3
-*   Spring Data JPA and Hibernate
-    *   Spring Data JPA Quick Example
+
+Contains hands-on work related to Spring Data JPA and Hibernate.
 
 ### Week 4
-*   Spring REST
-    *   Create Spring Web Project
-    *   JWT Authentication
+
+Contains hands-on work related to Spring REST.
 
 ## Technologies Used
-*   Java
-*   Maven
-*   JUnit
-*   Mockito
-*   Spring Framework
-*   Spring Boot
-*   Spring Data JPA
-*   Hibernate
-*   SQL
 
-## Running an Exercise
-Each exercise may have a different structure. Open the required exercise folder and follow its README instructions.
+* Java
+* Maven
+* JUnit
+* Mockito
+* Spring Framework
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* SQL
 
-For Maven projects, the common command is:
+## Running the Exercises
+
+Open the required exercise folder and read its README for the correct instructions.
+
+For a valid Maven project, the common command is:
+
 ```bash
 mvn clean test
 ```
 
-## Repository Structure
-```text
-Digital-Nurture-4.0-JavaFSE/
-├── Week-01/
-│   ├── Data-Structures-and-Algorithms/
-│   ├── Design-Patterns-and-Principles/
-│   └── PLSQL-Programming/
-├── Week-02/
-│   ├── JUnit-Mockito-and-Logging/
-│   └── Spring-Core-and-Maven/
-├── Week-03/
-│   └── Spring-Data-JPA-and-Hibernate/
-└── Week-04/
-    └── Spring-REST/
-```
+Some exercises may contain a main class and require a different command.
 
 ## Note
-These solutions were created for learning and practice as part of the training program.
+
+These exercises were completed for learning and practice during the training program.
